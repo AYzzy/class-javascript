@@ -1,0 +1,24 @@
+const studentScores = [95,78,85,60,45,92]
+
+let score = studentScores.map((num)=>score)
+
+function score(number){
+number = 100
+if (score<90){
+    return A
+}
+if(89<score>80){
+    return B
+}
+if(79<score>70){
+    return C
+}
+if(69<score>60){
+    return D
+}
+if(60<score){
+    return F
+}
+}
+
+module.exports= {score}
